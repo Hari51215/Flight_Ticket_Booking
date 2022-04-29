@@ -57,7 +57,6 @@ typedef struct Passenger_Details
     }
 }Passenger;
 
-
 void Seat_arrangement(int C1, int C2, int C3, int Rows)
 {
     No_C1 = C1;
